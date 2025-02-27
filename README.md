@@ -3,3 +3,7 @@ https://www.google.com/search?q=ferrite https://en.wikipedia.org/wiki/Ferrite_(m
 
 # Ferrite Core
 https://en.wikipedia.org/wiki/Ferrite_core
+
+# in High Frequency applications
+## Radio
+https://en.wikipedia.org/wiki/Ferrite_core#/media/File:Ferrite_antenna.jpg
